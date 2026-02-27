@@ -1,0 +1,17 @@
+{
+    "name": "Waterloo",
+    "code": "YKF",
+    "bbox": [-80.624285,43.326645,-80.168695,43.591768],
+    "thumbnailBbox": [-80.460777,43.348650,-80.284309,43.451922],
+    "initialViewState": {
+        "latitude": 43.464,
+        "longitude": -80.522,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "Kronifer",
+    "version": "1.0.0",
+    "population": 780000,
+    "description": "Join together 4 cities in this urban region by the Grand River.",
+    "country": "CA"
+}
